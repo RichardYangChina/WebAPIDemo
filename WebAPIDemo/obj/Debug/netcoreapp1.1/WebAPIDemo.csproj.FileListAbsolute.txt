@@ -1,0 +1,9 @@
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp1.1\WebAPIDemo.deps.json
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp1.1\WebAPIDemo.runtimeconfig.json
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp1.1\WebAPIDemo.runtimeconfig.dev.json
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp1.1\WebAPIDemo.dll
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp1.1\WebAPIDemo.pdb
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp1.1\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp1.1\WebAPIDemo.AssemblyInfo.cs
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp1.1\WebAPIDemo.dll
+C:\My Project\DotNet Core\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp1.1\WebAPIDemo.pdb
