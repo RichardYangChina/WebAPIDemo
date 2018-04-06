@@ -37,6 +37,9 @@ namespace WebAPIDemo
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
+            app.UseCors(builder =>
+       builder.WithOrigins("*"));
+
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
